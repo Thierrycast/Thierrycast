@@ -1,4 +1,7 @@
-### Ola! eu sou Thierry Castro
+
+<h1 align="left">Ola! eu sou Thierry Castro 👋</h1>
+
+###
 
 <div align="center">
   <a href="https://github.com/Thierrycast">
