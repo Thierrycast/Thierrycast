@@ -1,14 +1,31 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f20a1&height=120&section=header"/>
+<h1 style="color: #6f20a1;" align="center">Ola! eu sou Thierry Castro</h1>
 
-<h1 align="left">Ola! eu sou Thierry Castro 👋</h1>
+<br/>
+<br/>
+<br/>
 
-###
+- 📚  Sou desenvolvedor de Software Fullstack.
+- 🧑‍💻  Tenho 20 anos e moro em Sardoá - MG
+- 🎸  Também gosto muito de ouvir e tocar musica.
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Thierrycast&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thierrycast&layout=compact&langs_count=7&theme=midnight-purple" alt="languages" height="165">
-</p> 
+<br/>
+<br/>
 
 <p align="left">👩‍💻  Desenvolvedor Web Full Stack<br>
 <p align="left">👩‍💻  Entrevistador técnico<br>
+
+
+<br/>
+<br/>
+<br/>
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thierrycast&show_icons=true&count_private=true&hide_border=true&title_color=6f20a1&icon_color=6f20a1&text_color=c9d1d9&bg_color=0d1117" alt="Thierry Castro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thierrycast&layout=compact&hide_border=true&title_color=6f20a1&text_color=6f20a1&bg_color=0d1117" />
+</div>
+
 
 
   ###
@@ -33,3 +50,4 @@
   <a href="https://www.linkedin.com/in/thierry-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f20a1&height=120&section=footer"/>
