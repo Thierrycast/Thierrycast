@@ -4,10 +4,12 @@
 <br/>
 <br/>
 <div align="center">
-📚 Sou desenvolvedor de Software Fullstack.
-
-🧑‍💻 Tenho 20 anos e moro em Sardoá - MG
-🎸 Também gosto muito de ouvir e tocar musica.
+  
+ 📚 Sou desenvolvedor de Software Fullstack.
+ 
+ 🧑‍💻 Tenho 20 anos e moro em Sardoá - MG
+ 
+ 🎸 Também gosto muito de ouvir e tocar musica.
 
 </div>
 
