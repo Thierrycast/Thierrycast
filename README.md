@@ -20,6 +20,7 @@
 <br/>
 <br/>
 
+![csharp](/assets/icon-csharp.svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thierrycast&show_icons=true&count_private=true&hide_border=true&title_color=6f20a1&icon_color=6f20a1&text_color=c9d1d9&bg_color=0d1117" alt="Thierry Castro github stats" /> 
