@@ -46,7 +46,7 @@
 
 <a href="https://www.linkedin.com/in/thierry-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-6f20a1?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:thierrycastr555@gmail.com"><img src="https://img.shields.io/badge/Gmail-6f20a1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://discord.gg/Thierry#2839" target="_blank"><img src="https://img.shields.io/badge/Discord-6f20a1?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
-<a href="https://portfolio-thierrycast.vercel.app/" target="_blank"><img src="/assets/icon-portfolio.svg" target="_blank"></a>
+[![portfolio](/assets/icon-portfolio.svg)](https://portfolio-thierrycast.vercel.app/){:target="_blank"}
 
 </div>
 
