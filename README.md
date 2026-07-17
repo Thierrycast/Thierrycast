@@ -4,9 +4,9 @@ I'm a full-stack developer based in Minas Gerais, Brazil. I work across backend 
 frontend to build and evolve web applications, mainly with Ruby on Rails, Svelte and
 TypeScript.
 
-My background also includes technical mentoring and interviews. I care about clear
-requirements, maintainable code and interfaces that make sense to the people using
-them.
+My background also includes technical mentoring, interviews and a recent role
+teaching information technology. I care about clear requirements, maintainable code
+and interfaces that make sense to the people using them.
 
 ## What you'll find here
 
